@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SkyForeCastTest</string>
+    <string name="action_settings">Refresh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_location_detected">No se detectó ubicación Asegúrese de que la ubicación esté habilitada en el dispositivo.
+    </string>
+
+    <string name="permission_rationale">Permiso de ubicación es necesario para la funcionalidad principal.</string>
+    <string name="permission_denied_explanation">El permiso fue denegado, pero es necesario para la funcionalidad principal.</string>
+    <string name="settings">Configuración</string>
+    <string name="no_conection">Por favor verifica la conexión a internet</string>
+
+</resources>
